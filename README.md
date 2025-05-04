@@ -6,7 +6,7 @@
 Yelp Agent is an intelligent restaurant recommendation system powered by Google Gemini (via Generative AI), ChromaDB embeddings, and Streamlit. It combines semantic search, location awareness, and review understanding to generate real-time, personalized suggestions.
 
 ## Features
-•	LLM-Powered Recommendations: Gemini generates responses based on user queries and vector-based document context.
+	•	LLM-Powered Recommendations: Gemini generates responses based on user queries and vector-based document context.
 	•	Vector Store with ChromaDB: Restaurant review texts are embedded using SentenceTransformer and indexed for fast retrieval.
 	•	Location-Based Filtering: Users can input latitude and longitude to find nearby top-rated restaurants.
 	•	Geospatial Clustering: DBSCAN groups restaurants into local clusters for smarter region-based recommendations.
